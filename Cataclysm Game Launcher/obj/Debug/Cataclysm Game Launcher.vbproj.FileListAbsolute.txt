@@ -1,0 +1,10 @@
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\bin\Debug\Cataclysm Game Launcher.exe.config
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\bin\Debug\Cataclysm Game Launcher.exe
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\bin\Debug\Cataclysm Game Launcher.pdb
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\bin\Debug\Cataclysm Game Launcher.xml
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm_Game_Launcher.Launcher.resources
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm_Game_Launcher.Resources.resources
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm Game Launcher.vbproj.GenerateResource.Cache
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm Game Launcher.exe
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm Game Launcher.xml
+C:\Users\Michel\Desktop\Projects\Cataclysm Game Launcher\Cataclysm Game Launcher\obj\Debug\Cataclysm Game Launcher.pdb

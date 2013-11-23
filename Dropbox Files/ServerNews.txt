@@ -1,0 +1,4 @@
+- This is an server news
+  example online text file.
+  It's directly downloaded and
+  read to display this text.

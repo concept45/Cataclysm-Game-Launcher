@@ -1,0 +1,3 @@
+- This is an example news window.
+  It displays the content of a
+  online text document.
